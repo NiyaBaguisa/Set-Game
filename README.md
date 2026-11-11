@@ -13,10 +13,10 @@ A SET is 3 cards where, for each feature, the cards are:
 - all the same OR all different
 - If two match and one doesn’t — not a set!
 - Click on the cards to take the set
-- Keep going! Until you find all the sets! There a total of 81 cards availabler per round.
+- Keep going! Until you find all the sets! There a total of 81 cards available per round.
 - Game ends when no more sets.
 ## Features
-Distrsibution doughnut chart Updates as the game progresses, displays what kinds of sets have been taken by the user.
+Distribution doughnut chart Updates as the game progresses, displays what kinds of sets have been taken by the user.
 
 | Category | Description | 
 |---|---|
